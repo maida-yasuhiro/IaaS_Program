@@ -1,0 +1,28 @@
+./
+├── alllist.txt
+├── centos-api.sh
+├── centos.cfg
+├── centos-db.sh
+├── centos-dhcp.sh
+├── centos-http.sh
+├── centos-lb.cfg
+├── centos-lb-new.cfg
+├── centos-lb-new.sh
+├── centos-lb.sh
+├── centos-meta.sh
+├── centos-new.cfg
+├── centos-new.sh
+├── centos.sh
+├── centos-storage.sh
+├── centos-web.cfg
+├── centos-web-new.cfg
+├── centos-web-new.sh
+├── centos-web.sh
+├── create.sh
+├── delete-vm.sh
+├── dhcpd.conf
+├── issue.net
+├── motd
+└── virt-ip.sh
+
+0 directories, 25 files
